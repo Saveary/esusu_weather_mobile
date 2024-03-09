@@ -17,6 +17,7 @@ import 'package:weather_mobile/models/weather_model.dart';
   ...
   Pull out the Centered Card and make it a reusable widget 
 
+  TESTS TESTS TESTS - Preferably integration tests
 
 */
 class WeatherPage extends ConsumerStatefulWidget {
